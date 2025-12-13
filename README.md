@@ -3,6 +3,9 @@
 
 [다운로드](https://github.com/NyanReal/battlecat/releases)
 
+색채 페로로 빌드 3차
+NPC 전용모델
+
 호시노 빌드 2차
 사격판정 개선
 
